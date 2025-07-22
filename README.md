@@ -1,22 +1,28 @@
-### Hi there 👋
+### 👋 Hello, I’m [Jason D'souza](https://www.linkedin.com/in/jason-d-b8029020b/)  
 
-I'm [Jason D'souza](https://www.linkedin.com/in/jason-d-b8029020b/),  
-a Software Developer & Business Analyst at Deloitte USI.
+**Software Developer & Business Analyst @ Deloitte USI**  
+Passionate about **AI, Space Exploration & Defense Technologies**  
 
-<br><hr>
+---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JasonDsouzaofficial&theme=gruvbox_light&show_icons=true&count_private=true)<hr>
+<div align="center">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonDsouzaofficial&theme=gruvbox_light&layout=compact)<hr>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasonDsouzaofficial&theme=gruvbox_light&show_icons=true&count_private=true)  
+<br>  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonDsouzaofficial&theme=gruvbox_light&layout=compact)
 
-- I’m passionate about **Artificial Intelligence, Space, and Defense Technologies**.  
-- Former **Leading Cadet, Naval NCC - India**, with strong leadership and discipline.  
-- **Fun fact:** I enjoy photography, writing articles, and am proficient in dance and drama as creative outlets.
+</div>
+
+---
+
+- 🚀 Former Leading Cadet, Naval NCC India — fostering leadership, discipline & resilience  
+- 🎨 Photography & creative writing enthusiast  
+- 💃 Skilled in dance and drama — expressing creativity beyond code  
 
 <!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 Currently working on ...
+- 👯 Open to collaborations on ...
+- 🤔 Looking for advice on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
